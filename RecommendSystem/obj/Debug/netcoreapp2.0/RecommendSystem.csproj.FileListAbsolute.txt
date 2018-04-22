@@ -1,0 +1,11 @@
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\bin\Debug\netcoreapp2.0\RecommendSystem.deps.json
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\bin\Debug\netcoreapp2.0\RecommendSystem.runtimeconfig.json
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\bin\Debug\netcoreapp2.0\RecommendSystem.runtimeconfig.dev.json
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\bin\Debug\netcoreapp2.0\RecommendSystem.dll
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.csproj.CoreCompileInputs.cache
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.AssemblyInfoInputs.cache
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.AssemblyInfo.cs
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\bin\Debug\netcoreapp2.0\RecommendSystem.pdb
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.dll
+C:\Users\Anny\Desktop\RecommendSystem\RecommendSystem\obj\Debug\netcoreapp2.0\RecommendSystem.pdb
